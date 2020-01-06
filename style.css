@@ -1,0 +1,15 @@
+
+
+ul {
+ list-style: none;   
+}
+
+li  {
+    /* display: inline; */
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+button {
+    text-transform: uppercase;
+}

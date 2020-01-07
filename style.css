@@ -13,3 +13,7 @@ li  {
 button {
     text-transform: uppercase;
 }
+
+.btn-row {
+    margin-bottom: 10px;
+}
